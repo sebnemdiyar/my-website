@@ -682,7 +682,7 @@ section{
     right: -100%;
 }
 
-.header .navbar .active{
+.header .navbar.active{
     right: 3rem;
 }
 .header .navbar a{
